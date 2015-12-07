@@ -1,0 +1,23 @@
+{
+  "name": "ExtensibleSideBar",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "xiaoshude <fzyde123@gmail.com>"
+  ],
+  "description": "extensible sidebar",
+  "keywords": [
+    "sidebar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
